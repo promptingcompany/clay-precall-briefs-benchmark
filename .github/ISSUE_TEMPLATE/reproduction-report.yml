@@ -1,0 +1,30 @@
+name: Reproduction report
+description: Tell us you tried to reproduce the results, whether or not they matched.
+labels: ["reproduction"]
+body:
+  - type: input
+    id: what
+    attributes:
+      label: What you tried
+      description: For example scripts/reproduce.sh, the Harbor task, or a full rerun on your own accounts.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The commit of this repository, and the benchkit and model versions if you ran an agent.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Result
+      description: What you got, next to the published figure. Don't paste briefs or anyone's contact details.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: A public write-up, repository or log, if there is one. We log it in docs/REPRODUCTIONS.md.

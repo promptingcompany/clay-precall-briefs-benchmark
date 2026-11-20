@@ -1,0 +1,4 @@
+platform,briefs_written,accuracy,specificity,usefulness,fabrications_of_20,status,steps,minutes,data_credit_cost_usd,action_credit_cost_usd,credit_cost_usd,model_cost_usd,accuracy_ci_low,accuracy_ci_high,specificity_ci_low,specificity_ci_high,usefulness_ci_low,usefulness_ci_high,fabrication_rate_ci_low,fabrication_rate_ci_high,ai_accuracy,ai_specificity,ai_usefulness,ai_fabrications,human_accuracy,human_fabrications,ai_first_pass_accuracy,ai_first_pass_fabrications
+Clay,50,4.78,4.43,3.65,0,Pass,29,5.53,0.26,0.20,0.46,1.02,4.57,4.96,4.26,4.65,3.43,3.83,0.00,0.16,4.75,4.40,3.65,0,5.00,0,4.75,1
+Provider A,46,4.22,3.48,3.13,0,Partial,14,3.58,6.64,0.00,6.64,1.29,4.00,4.48,3.17,3.78,2.78,3.48,0.00,0.16,4.30,3.55,3.20,0,3.67,0,3.80,5
+Provider B,46,3.09,2.26,1.78,7,Partial,13,2.18,1.60,0.00,1.60,0.61,2.78,3.39,2.04,2.48,1.57,2.00,0.18,0.57,3.15,2.30,1.90,5,2.67,2,3.10,8

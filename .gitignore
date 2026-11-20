@@ -1,0 +1,10 @@
+# Never committed: the accounts file (names real people), briefs, run folders, review sheets
+private/
+.venv/
+__pycache__/
+.env
+.DS_Store
+
+# Harbor copies of the accounts file: shared on request (harbor/README.md)
+harbor/write-precall-briefs/environment/t6-accounts.csv
+harbor/write-precall-briefs/tests/t6-accounts.csv

@@ -1,0 +1,20 @@
+{
+  "title": "AI Pre-Call Brief Benchmark: Clay vs two data providers",
+  "description": "One task from a seven-task pre-registered agent study, published on its own: an AI agent writes 50 pre-call research briefs on Clay and on two anonymized data providers through each platform's own tools, and a blind AI reviewer with web search scores a sample for accuracy, specificity, usefulness and fabricated facts. Holds the method, the task as a Harbor task, the scoring code and the results; the accounts file and per-brief ratings are private. Not independently reviewed; one run per platform.",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "The Prompting Company"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "notes": "Documentation and results: CC BY 4.0 (docs/LICENSE-DOCS). Code: MIT (LICENSE).",
+  "keywords": [
+    "benchmark",
+    "go-to-market",
+    "account research",
+    "AI agents",
+    "Clay",
+    "pre-call brief"
+  ]
+}

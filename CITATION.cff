@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these results or this method, please cite it as below."
+type: dataset
+title: "AI Pre-Call Brief Benchmark: Clay vs two data providers"
+abstract: "One task from a seven-task pre-registered agent study: an AI agent writes 50 pre-call research briefs on Clay and on two anonymized competitors through each platform's own tools, and a blind AI reviewer with web search scores a sample for accuracy, specificity, usefulness and fabricated facts. Not independently reviewed; one run per platform."
+authors:
+  - name: "The Prompting Company"
+    website: "https://promptingcompany.com"
+version: "1.0"
+date-released: "2026-11-19"
+repository-code: "https://github.com/promptingcompany/clay-precall-briefs-benchmark"
+license:
+  - "MIT"
+  - "CC-BY-4.0"
+keywords:
+  - "benchmark"
+  - "go-to-market"
+  - "account research"
+  - "AI agents"
+  - "Clay"
